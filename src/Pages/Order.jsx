@@ -4,9 +4,9 @@ import Cover from "./Cover";
 import { Tab, Tabs, TabList, TabPanel } from "react-tabs";
 import "react-tabs/style/react-tabs.css";
 import useMenu from "./Hooks/useMenu";
-import OrderTab from "./OrderTab";
 import { useParams } from "react-router-dom";
 import { Helmet } from "react-helmet-async";
+import OrderTab from "./Ordertab";
 
 
 const Order = () => {
