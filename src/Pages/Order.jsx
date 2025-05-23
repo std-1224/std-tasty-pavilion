@@ -6,7 +6,7 @@ import "react-tabs/style/react-tabs.css";
 import useMenu from "./Hooks/useMenu";
 import { useParams } from "react-router-dom";
 import { Helmet } from "react-helmet-async";
-import OrderTab from "./Ordertab";
+import OrderTab from "./OrderTab";
 
 
 const Order = () => {
